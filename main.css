@@ -58,12 +58,14 @@ a {
 }
 
 a:hover {
+  text-decoration: none;
   color: #F4D984;
   -webkit-transition: color 0.2s;
   transition: color 0.2s;
 }
 
 a:hover_effect {
+  text-decoration: none;
   color: #F4D984;
   -webkit-transition: color 0.2s;
   transition: color 0.2s;
@@ -419,4 +421,5 @@ footer {
  }
   
 }
+
 
